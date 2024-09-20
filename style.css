@@ -1,0 +1,12 @@
+body {
+    background-color: #c8c8c8;
+    font-family: monospace, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    margin-top: 20px;
+}
